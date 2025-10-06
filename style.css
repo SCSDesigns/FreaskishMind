@@ -7,21 +7,21 @@ height: 375px;
 
 @font-face {
     font-family: jungle;
-    src: url(/Urbanjungledemo-ymAm.otf);
+    src: url(./Urbanjungledemo-ymAm.otf);
 }
 @font-face {
     font-family: jungle1;
-    src: url(/Harima-X3od9.otf);
+    src: url(./Harima-X3od9.otf);
 }
 
 @font-face {
     font-family: jungle2;
-    src: url(/Ulastro-DYAy3.otf);
+    src: url(./Ulastro-DYAy3.otf);
 }
 
 @font-face {
     font-family: tropic;
-    src: url(/images/TropicJungle-5y8zZ.ttf);
+    src: url(./images/TropicJungle-5y8zZ.ttf);
 }
 
 
