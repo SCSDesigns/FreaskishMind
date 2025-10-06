@@ -1,0 +1,44 @@
+.path2 {
+clip-path: path("M 13.75,0 L 123.75,0 A 10,10,0,0,1 132.92,4.69 L 165,56.25 L 261.25,56.25 A 15,20,0,0,1 275,75 L 275,356.25 A 15,20,0,0,1 261.25,375 L 13.75,375 A 15,20,0,0,1 0,356.25 L 0,18.75 A 15,20,0,0,1 13.75,0 Z");
+width: 275px;
+height: 375px;
+
+}
+
+@font-face {
+    font-family: jungle;
+    src: url(/Urbanjungledemo-ymAm.otf);
+}
+@font-face {
+    font-family: jungle1;
+    src: url(/Harima-X3od9.otf);
+}
+
+@font-face {
+    font-family: jungle2;
+    src: url(/Ulastro-DYAy3.otf);
+}
+
+@font-face {
+    font-family: tropic;
+    src: url(/images/TropicJungle-5y8zZ.ttf);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
